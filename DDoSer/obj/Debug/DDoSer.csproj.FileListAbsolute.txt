@@ -1,0 +1,11 @@
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\bin\Debug\DDoSer.exe.config
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\bin\Debug\DDoSer.exe
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\bin\Debug\DDoSer.pdb
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.csproj.AssemblyReference.cache
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.Form1.resources
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.Properties.Resources.resources
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.csproj.GenerateResource.cache
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.csproj.CoreCompileInputs.cache
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.exe
+C:\Users\Szymon.DESKTOP-D6TFNIA\source\repos\DDoSer\DDoSer\obj\Debug\DDoSer.pdb
