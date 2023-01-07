@@ -1,4 +1,4 @@
-# ddoser
+# DDoSer
 A nice and free DDoSer for Windows PC's. Now you can DESTROY your friend's minecraft server because he attacked your Coin Master village! 👿👿👿
 Coded by Szymon Mondzielewski(SzymonDevs).
 
